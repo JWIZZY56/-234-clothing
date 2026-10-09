@@ -1,0 +1,13 @@
+{
+  "name": "234-clothing-store",
+  "version": "1.0.0",
+  "description": "Beginner-friendly full-stack clothing store using HTML, CSS, JavaScript, and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
